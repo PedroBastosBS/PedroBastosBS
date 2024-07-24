@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pedro Bastos</h1>
 <h3 align="center">I am a software engineer in Brazil, and I work on projects focused on backend development. I also have a slight penchant for DevOps.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrobastosbs&label=Profile%20views&color=0e75b6&style=flat" alt="pedrobastosbs" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrobastosbs" alt="pedrobastosbs" /></a> </p>
-
 - 🌱 I’m currently learning **Domain Driven Desing**
 
 - 💬 Ask me about **laravel, php and spring boot**
